@@ -1,0 +1,21 @@
+{
+    "name": "hasanov-j/currency",
+    "description": "static clases using on MVC",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "HasanovJ\\Currency\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jafar Hasanov",
+            "email": "hasanovjafar1101@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "guzzlehttp/guzzle": "^7.0"
+    }
+}
